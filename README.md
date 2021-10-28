@@ -1,4 +1,4 @@
-Sistema de CRUD PHP básico
+Sistema CRUD com Login feito em PHP, básico
 
 Version: 2.0
 
